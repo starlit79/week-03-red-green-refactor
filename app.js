@@ -12,7 +12,7 @@ module.exports= {
             case 2:
             case 3:
             case 4:
-                rating: 10;
+                rating: 8;
                 break;
             case 5:
             case 6:
@@ -25,7 +25,7 @@ module.exports= {
 
         switch (smallCar.fuelType){
             case diesel:
-                rating: rating+1; 
+                rating: rating+2; 
                 break;
             case regular:
         }
